@@ -4,11 +4,11 @@
 
 # Hi there! 👋 I'm Akthar Naveed
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AktharNaveed-blue)](https://www.linkedin.com/in/akthar-naveed-921039201/)]
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio-green)]((https://www.upwork.com/freelancers/~0195463ae638b7275c?viewMode=1))]
-[![Twitter](https://img.shields.io/badge/Twitter-AktharNaveed-blue)]((https://twitter.com/AktharN80967))]
-[![GitHub followers](https://img.shields.io/github/followers/Aktharnvdv?label=Follow&style=social)](https://github.com/Aktharnvdv)]
-[![Research Publication](https://img.shields.io/badge/Research%20Publication-arXiv%3A2207.09665-red)](https://arxiv.org/abs/2207.09665)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AktharNaveed-blue)](https://www.linkedin.com/in/akthar-naveed-921039201/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio-green)]((https://www.upwork.com/freelancers/~0195463ae638b7275c?viewMode=1))
+[![Twitter](https://img.shields.io/badge/Twitter-AktharNaveed-blue)]((https://twitter.com/AktharN80967))
+[![GitHub followers](https://img.shields.io/github/followers/Aktharnvdv?label=Follow&style=social)](https://github.com/Aktharnvdv)
+[![Research Publication](https://img.shields.io/badge/Research%20Publication-arXiv%3A2207.09665-red)](https://arxiv.org/abs/2207.09665)
 
 🚀 I'm a passionate Machine Learning Engineer with 4 years of experience, specializing in large custom model creation, training, and implementing cutting-edge research papers using PyTorch.
 
