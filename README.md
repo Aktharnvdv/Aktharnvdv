@@ -4,7 +4,7 @@
 
 # Hi there! 👋 I'm Akthar Naveed
 
-[![LinkedIn](https://img.shields.io/badge/[LinkedIn-AktharNaveed-blue](https://www.linkedin.com/in/akthar-naveed-921039201/))](Your LinkedIn URL)
+[![LinkedIn](https://img.shields.io/badge/[LinkedIn-AktharNaveed-blue])](https://www.linkedin.com/in/akthar-naveed-921039201/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolio-green)](Your Portfolio URL)
 [![Twitter](https://img.shields.io/badge/Twitter-AktharNawaz-blue)](Your Twitter URL)
 [![GitHub followers](https://img.shields.io/github/followers/Aktharnvdv?label=Follow&style=social)](https://github.com/Aktharnvdv)
