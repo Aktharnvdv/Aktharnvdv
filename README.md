@@ -8,6 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio-green)]((https://www.upwork.com/freelancers/~0195463ae638b7275c?viewMode=1))
 [![Twitter](https://img.shields.io/badge/Twitter-AktharNaveed-blue)]((https://twitter.com/AktharN80967))
 [![GitHub followers](https://img.shields.io/github/followers/Aktharnvdv?label=Follow&style=social)](https://github.com/Aktharnvdv)
+[![Research Publication](https://img.shields.io/github/followers/Aktharnvdv?label=Follow&style=social)](https://arxiv.org/abs/2207.09665))
 
 🚀 I'm a passionate Machine Learning Engineer with 4 years of experience, specializing in large custom model creation, training, and implementing cutting-edge research papers using PyTorch.
 
@@ -34,10 +35,7 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Akthar Nawaz](Your LinkedIn URL)
-- Portfolio: [Your Portfolio](Your Portfolio URL)
-- Twitter: [Akthar Nawaz](Your Twitter URL)
-- Email: your.email@example.com
+- Email: akthercmr@gmail.com
 
 Let's connect and collaborate on exciting projects!
 
