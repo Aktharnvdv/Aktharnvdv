@@ -12,7 +12,7 @@
 
 🚀 I'm a passionate Machine Learning Engineer with 4 years of experience, specializing in large custom model creation, training, and implementing cutting-edge research papers using PyTorch.
 
-🔭 I've contributed to the development of data pipelines and predictive models using Kafka-pyspark and transformers for Shura elections in October 2023.
+🔭 I've contributed to the development of data pipelines and predictive models using Kafka-pyspark and transformers for Shura elections in Oman in October 2023.
 
 ## 👨‍💻 Technical Expertise
 
