@@ -10,7 +10,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Aktharnvdv?label=Follow&style=social)](https://github.com/Aktharnvdv)
 [![Research Publication](https://img.shields.io/badge/Research%20Publication-arXiv%3A2207.09665-red)](https://arxiv.org/abs/2207.09665)
 
-🚀 I'm a passionate Machine Learning Engineer, specializing in large custom model creation, training, and implementing cutting-edge research papers using PyTorch.
+🚀 I'm a passionate Machine Learning Engineer, interested in working with LLM and GenerativeAI.
 
 🔭 I've contributed to the development of data pipelines and predictive models using Kafka-pyspark and transformers for Shura elections in Oman in October 2023.
 
