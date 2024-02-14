@@ -14,28 +14,14 @@
 
 🔭 I've contributed to the development of data pipelines and predictive models using Kafka-pyspark and transformers for Shura elections in Oman in October 2023.
 
-## 👨‍💻 Technical Expertise
-
-- **Areas of Focus:** Machine Learning, Deep Learning, and Deep Reinforcement Learning
-- **Frameworks:** PyTorch
-- **Programming Language:** Python
-
 ## 🧠 Specializations
 
 - **Generative AI:** Expertise in GANs, VAEs, and Diffusion models.
 - **Expertise:** Lip-syncing, voice cloning, stable diffusion, and LLM.
 - **Experience:** Building and training Lip-syncing models and voice cloning models.
 
-### Recent Achievements
-
-- 🚀 Trained and fine-tuned stable diffusion models using dreambooth and textual inversion.
-- 🤖 Worked on controlNet for improved model performance.
-- 🌐 Trained GPT-7M model and fine-tuned ChatGPT, GPT-4, GPT-3.5 using embeddings and Pinecone.
-- 🛠 Experienced in OpenAI CLI, Langchain, and RAG.
-
 ## 📫 Connect with Me
 
 - Email: akthercmr@gmail.com
 
 Let's connect and collaborate on exciting projects!
-
