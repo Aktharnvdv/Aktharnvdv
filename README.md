@@ -9,7 +9,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-AktharNaveed-blue)](https://twitter.com/AktharN80967)
 [![GitHub followers](https://img.shields.io/github/followers/Aktharnvdv?label=Follow&style=social)](https://github.com/Aktharnvdv)
 [![Research Publication](https://img.shields.io/badge/Research%20Publication-arXiv%3A2207.09665-red)](https://arxiv.org/abs/2207.09665)
-[![HackerRank](https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png)](https://www.hackerrank.com/your-username)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue)](https://www.hackerrank.com/profile/akthercmr)
+
 
 🚀 I'm a passionate Machine Learning Engineer, interested in working with LLM and GenerativeAI.
 
