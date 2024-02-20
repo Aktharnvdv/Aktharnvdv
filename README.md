@@ -24,7 +24,7 @@
 # Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,pytorch" />
+    <img src="https://skillicons.dev/icons?i=git,pytorch,py,anaconda,was,docker,ai,heroku,kafka,opencv,sklearn" />
   </a>
 </p>
 
