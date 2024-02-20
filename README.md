@@ -21,6 +21,13 @@
 - **Expertise:** Lip-syncing, voice cloning, stable diffusion, and LLM.
 - **Experience:** Building and training Lip-syncing models and voice cloning models.
 
+# Skills:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,pytorch" />
+  </a>
+</p>
+
 ## 📫 Connect with Me
 
 - Email: akthercmr@gmail.com
