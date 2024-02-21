@@ -28,7 +28,10 @@
   </a>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aktharnvdv&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aktharnvdv&layout=compact" alt="Top Languages">
+</div>
+
 
 ## 📫 Connect with Me
 
