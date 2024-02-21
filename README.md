@@ -46,4 +46,6 @@ Let's connect and collaborate on exciting projects!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aktharnvdv&layout=compact)
 
+![Graph](https://carbon.now.sh/?code=%5B%21%5BCommits%5D%28https%3A%2F%2Fimg.shields.io%2Fbadge%2FCommits-90%2525-brightgreen%3Fstyle%3Dfor-the-badge%29%5D%28https%3A%2F%2Fgithub.com%2FAktharnvdv%3Ftab%3Drepositories%29%0A%5B%21%5BCode%20Review%5D%28https%3A%2F%2Fimg.shields.io%2Fbadge%2FCode%2520Review-10%2525-yellow%3Fstyle%3Dfor-the-badge%29%5D%28https%3A%2F%2Fgithub.com%2FAktharnvdv%3Ftab%3Drepositories%29%0A%5B%21%5BIssues%5D%28https%3A%2F%2Fimg.shields.io%2Fbadge%2FIssues-0%2525-red%3Fstyle%3Dfor-the-badge%29%5D%28https%3A%2F%2Fgithub.com%2FAktharnvdv%3Ftab%3Drepositories%29%0A%5B%21%5BPull%20Requests%5D%28https%3A%2F%2Fimg.shields.io%2Fbadge%2FPull%2520Requests-0%2525-blue%3Fstyle%3Dfor-the-badge%29%5D%28https%3A%2F%2Fgithub.com%2FAktharnvdv%3Ftab%3Drepositories%29)
+
 
