@@ -35,4 +35,5 @@
 Let's connect and collaborate on exciting projects!
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aktharnvdv&show_icons=true&count_private=true&hide=contribs,prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aktharnvdv&layout=compact)
 
