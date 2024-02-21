@@ -10,12 +10,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-AktharNaveed-blue)](https://twitter.com/AktharN80967)
 [![Research Publication](https://img.shields.io/badge/Research%20Publication-arXiv%3A2207.09665-red)](https://arxiv.org/abs/2207.09665)
 
-<img src="https://img.shields.io/badge/LinkedIn-AktharNaveed-blue" alt="LinkedIn" width="200">
-<img src="https://img.shields.io/badge/HackerRank-Profile-blue" alt="HackerRank" width="200">
-<img src="https://img.shields.io/badge/Portfolio-portfolio-green" alt="Portfolio" width="200">
-<img src="https://img.shields.io/badge/Twitter-AktharNaveed-blue" alt="Twitter" width="200">
-<img src="https://img.shields.io/badge/Research%20Publication-arXiv%3A2207.09665-red" alt="Research Publication" width="200">
-
 🚀 I'm a passionate Machine Learning Engineer, interested in working with LLM and GenerativeAI.
 
 🔭 I've contributed to the development of data pipelines and predictive models using Kafka-pyspark and transformers for Shura elections in Oman in October 2023.
