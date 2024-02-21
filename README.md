@@ -34,13 +34,16 @@
 
 Let's connect and collaborate on exciting projects!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aktharnvdv&layout=compact)
 
 ### GitHub Activity Breakdown
 
-[![Commits](https://img.shields.io/badge/Commits-90%25-brightgreen)](https://github.com/Aktharnvdv?tab=repositories)
-[![Code Review](https://img.shields.io/badge/Code%20Review-10%25-yellow)](https://github.com/Aktharnvdv?tab=repositories)
-[![Issues](https://img.shields.io/badge/Issues-0%25-red)](https://github.com/Aktharnvdv?tab=repositories)
-[![Pull Requests](https://img.shields.io/badge/Pull%20Requests-0%25-blue)](https://github.com/Aktharnvdv?tab=repositories)
+
+
+![GitHub Activity Graph](https://img.shields.io/badge/Commits-90%25-brightgreen?style=for-the-badge)
+![GitHub Activity Graph](https://img.shields.io/badge/Code%20Review-10%25-yellow?style=for-the-badge)
+![GitHub Activity Graph](https://img.shields.io/badge/Issues-0%25-red?style=for-the-badge)
+![GitHub Activity Graph](https://img.shields.io/badge/Pull%20Requests-0%25-blue?style=for-the-badge)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aktharnvdv&layout=compact)
 
 
