@@ -28,13 +28,10 @@
   </a>
 </p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aktharnvdv&layout=compact)
+
 ## 📫 Connect with Me
 
 - Email: akthercmr@gmail.com
 
 Let's connect and collaborate on exciting projects!
-
-
-### GitHub Activity Breakdown
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aktharnvdv&layout=compact)
