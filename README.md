@@ -20,6 +20,12 @@
 - **Expertise:** Lip-syncing, voice cloning, stable diffusion, and LLM.
 - **Experience:** Building and training Lip-syncing models and voice cloning models.
 
+## 📫 Connect with Me
+
+- Email: akthercmr@gmail.com
+
+Let's connect and collaborate on exciting projects!
+
 # Skills:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,11 +36,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aktharnvdv&layout=compact&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff" alt="Top Languages">
 </div>
-
-
-
-## 📫 Connect with Me
-
-- Email: akthercmr@gmail.com
-
-Let's connect and collaborate on exciting projects!
