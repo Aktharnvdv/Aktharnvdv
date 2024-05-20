@@ -12,13 +12,10 @@
 
 🚀 I'm a passionate Machine Learning Engineer, interested in working with LLM and GenerativeAI.
 
-🔭 I've contributed to the development of data pipelines and predictive models using Kafka-pyspark and transformers for Shura elections in Oman in October 2023.
-
-## 🧠 Specializations
-
-- **Generative AI:** Expertise in GANs, VAEs, and Diffusion models.
-- **Expertise:** Lip-syncing, voice cloning, stable diffusion, and LLM.
-- **Experience:** Building and training Lip-syncing models and voice cloning models.
+- First-ever implementation of a talking avatar and transformer-based predictive AI pipeline using kafka-Pyspark during the Oman Shura Election 2023.
+- Proven track record in developing large-scale models such as Stable Video Diffusion, Large Language Models (LLMs), lip-sync, image-to-text, and speech-to-text (STT) systems.
+- Extensive experience with developing large models on GPU clusters using large datasets, including multinode and multi-GPU configurations with A100 and H100 GPUs.
+- Highly proficient in PyTorch and distributed training libraries such as Accelerate and DeepSpeed.
 
 ## 📫 Connect with Me
 
