@@ -2,7 +2,7 @@
 **Aktharnvdv/Aktharnvdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi there! 👋 I'm Akthar Naveed
+# Hi👋 I'm Akthar Naveed
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AktharNaveed-blue)](https://www.linkedin.com/in/akthar-naveed-921039201/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio-green)](https://www.upwork.com/freelancers/~0195463ae638b7275c?viewMode=1)
